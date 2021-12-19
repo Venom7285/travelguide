@@ -1,0 +1,50 @@
+.heading {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+.travel_idea_div {
+    box-shadow: 5px 5px 5px grey;
+    background-color: greenyellow;
+    border-radius: 5px;
+    height: 325px;
+    width: 300px;
+    margin-top: 8px;
+}
+
+.travel_idea_title {
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 7px;
+}
+
+.travel_pic {
+    border-radius: 5px;
+    height: 150px;
+    width: 225px;
+    margin-left: 7px;
+}
+
+.about_travel {
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 7px;
+}
+
+#travel_idea_vedic {
+    box-shadow: 5px 5px 5px grey;
+    background-color: greenyellow;
+    border-radius: 5px;
+    height: 435px;
+    width: 300px;
+    margin-top: 8px;
+}
+
+#travel_idea_mon {
+    box-shadow: 5px 5px 5px grey;
+    background-color: greenyellow;
+    border-radius: 5px;
+    height: 340px;
+    width: 300px;
+    margin-top: 8px;
+}
